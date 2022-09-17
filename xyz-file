@@ -2,10 +2,6 @@ xyz contents
 done
 changes for feature branch 
 local changes 
-<<<<<<< HEAD
-another change 
-=======
 another change 
 world
 damn it
->>>>>>> e3b4ce2cf1e6b9ee5f93de07216f45f7b2001946
